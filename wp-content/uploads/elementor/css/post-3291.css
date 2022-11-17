@@ -1,0 +1,43 @@
+.elementor-3291 .elementor-element.elementor-element-6a90fe6f:not(.elementor-motion-effects-element-type-background), .elementor-3291 .elementor-element.elementor-element-6a90fe6f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#E3E4E8;}.elementor-3291 .elementor-element.elementor-element-6a90fe6f{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-3291 .elementor-element.elementor-element-6a90fe6f > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3291 .elementor-element.elementor-element-6f409716 img{width:65%;}.elementor-3291 .elementor-element.elementor-element-7c801d4b{--e-icon-list-icon-size:14px;}.elementor-3291 .elementor-element.elementor-element-7c801d4b .elementor-icon-list-text{color:#000000;}.elementor-3291 .elementor-element.elementor-element-7c801d4b .elementor-icon-list-item > .elementor-icon-list-text, .elementor-3291 .elementor-element.elementor-element-7c801d4b .elementor-icon-list-item > a{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-3291 .elementor-element.elementor-element-19a17fe9 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-3291 .elementor-element.elementor-element-19a17fe9 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 0px 0px;}.elementor-3291 .elementor-element.elementor-element-72fbe804{text-align:right;}.elementor-3291 .elementor-element.elementor-element-72fbe804 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-3291 .elementor-element.elementor-element-da38fcb:not(.elementor-motion-effects-element-type-background), .elementor-3291 .elementor-element.elementor-element-da38fcb > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#E3E4E8;}.elementor-3291 .elementor-element.elementor-element-da38fcb{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-3291 .elementor-element.elementor-element-da38fcb > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3291 .elementor-element.elementor-element-42557377 .elementor-menu-toggle{margin:0 auto;}.elementor-3291 .elementor-element.elementor-element-42557377 .elementor-nav-menu .elementor-item{font-family:"Roboto", Sans-serif;font-size:15px;font-weight:400;}.elementor-3291 .elementor-element.elementor-element-42557377 .elementor-nav-menu--main .elementor-item{color:#000000;fill:#000000;}.elementor-3291 .elementor-element.elementor-element-42557377 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-3291 .elementor-element.elementor-element-42557377 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-3291 .elementor-element.elementor-element-42557377 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-3291 .elementor-element.elementor-element-42557377 .elementor-nav-menu--main .elementor-item:focus{color:#F70714;fill:#F70714;}@media(min-width:768px){.elementor-3291 .elementor-element.elementor-element-5981b3d9{width:76.216%;}.elementor-3291 .elementor-element.elementor-element-19a17fe9{width:23.65%;}}/* Start custom CSS */.blockflash{
+  display:inline-block;
+  background:##E3E4E8;
+}
+a.popup-link.add_form {
+    background-color: #fff;
+    padding: 12px 12px;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: 2px solid #f70407;
+        color: #f70407;
+}
+.flash-me {
+  color:#fff;
+  font-size:25px;
+  -webkit-animation: flash linear 1.7s infinite;
+  animation: flash linear 1.7s infinite;
+}
+
+@-webkit-keyframes flash {
+  0% { opacity: 0; } 
+  80% { opacity: 1; color:#fff; } 
+  83% { opacity: 0; color:#fff; } 
+  86% { opacity: 1; color:#fff;}  
+  89% { opacity: 0} 
+  92% { opacity: 1; color:#fff;} 
+  95% { opacity: 0; color:#fff;}
+  100% { opacity: 1; color:#fff;}
+}
+@keyframes flash {
+  0% { opacity: 0; } 
+  80% { opacity: 1; color:#fff; } 
+  83% { opacity: 0; color:#fff; } 
+  86% { opacity: 1; color:#fff;}  
+  89% { opacity: 0} 
+  92% { opacity: 1; color:#fff;} 
+  95% { opacity: 0; color:#fff;}
+  100% { opacity: 1; color:#fff;}
+}/* End custom CSS */

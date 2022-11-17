@@ -1,0 +1,11 @@
+[27-Jun-2020 15:50:42 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/field_types/field_date_v2.php on line 6
+[27-Jun-2020 15:56:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/field_types/field_divider.php on line 7
+[27-Jun-2020 15:58:00 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/field_types/field_minimalistic_example.php on line 3
+[27-Jun-2020 16:02:02 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/field_types/field_example.php on line 9
+[17-Apr-2021 13:05:06 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/field_types/field_date_v2.php on line 6
+[17-Apr-2021 13:58:28 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/field_types/field_minimalistic_example.php on line 3
+[17-Apr-2021 18:16:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/field_types/field_example.php on line 9
+[20-Apr-2021 19:44:26 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/field_types/field_date_v2.php on line 6
+[20-Apr-2021 19:44:28 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/field_types/field_divider.php on line 7
+[20-Apr-2021 19:44:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/field_types/field_minimalistic_example.php on line 3
+[20-Apr-2021 19:45:42 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/field_types/field_example.php on line 9

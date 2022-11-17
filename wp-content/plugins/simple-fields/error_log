@@ -1,0 +1,43 @@
+[27-Jun-2020 15:19:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-debug.php on line 14
+[27-Jun-2020 15:21:05 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-manage.php on line 465
+[27-Jun-2020 15:21:30 UTC] PHP Fatal error:  Using $this when not in object context in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options.php on line 8
+[27-Jun-2020 15:35:02 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-debug.php on line 14
+[27-Jun-2020 15:49:11 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-export-import.php on line 14
+[27-Jun-2020 15:56:36 UTC] PHP Fatal error:  Class 'Debug_Bar_Panel' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/class_simple_fields_debug_panel.php on line 6
+[27-Jun-2020 15:57:30 UTC] PHP Fatal error:  Class 'Walker' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/functions.php on line 359
+[27-Jun-2020 16:06:33 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/simple_fields.php on line 60
+[30-Mar-2021 12:13:32 UTC] PHP Fatal error:  Using $this when not in object context in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options.php on line 8
+[30-Mar-2021 13:39:59 UTC] PHP Fatal error:  Class 'Walker' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/functions.php on line 359
+[30-Mar-2021 19:33:46 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-export-import.php on line 14
+[30-Mar-2021 21:30:37 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/simple_fields.php on line 60
+[30-Mar-2021 21:49:58 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-debug.php on line 14
+[31-Mar-2021 01:50:51 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-manage.php on line 465
+[31-Mar-2021 02:03:05 UTC] PHP Fatal error:  Class 'Debug_Bar_Panel' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/class_simple_fields_debug_panel.php on line 6
+[04-Apr-2021 18:56:42 UTC] PHP Fatal error:  Class 'Walker' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/functions.php on line 359
+[06-Apr-2021 18:35:19 UTC] PHP Fatal error:  Class 'Debug_Bar_Panel' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/class_simple_fields_debug_panel.php on line 6
+[06-Apr-2021 23:57:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-debug.php on line 14
+[07-Apr-2021 08:39:39 UTC] PHP Fatal error:  Class 'Walker' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/functions.php on line 359
+[09-Apr-2021 17:09:31 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/simple_fields.php on line 60
+[10-Apr-2021 23:14:50 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/simple_fields.php on line 60
+[11-Apr-2021 11:21:09 UTC] PHP Fatal error:  Class 'Walker' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/functions.php on line 359
+[11-Apr-2021 23:17:34 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/simple_fields.php on line 60
+[12-Apr-2021 23:17:32 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/simple_fields.php on line 60
+[13-Apr-2021 15:14:47 UTC] PHP Fatal error:  Using $this when not in object context in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options.php on line 8
+[13-Apr-2021 23:12:32 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/simple_fields.php on line 60
+[14-Apr-2021 01:37:10 UTC] PHP Fatal error:  Class 'Debug_Bar_Panel' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/class_simple_fields_debug_panel.php on line 6
+[14-Apr-2021 18:16:33 UTC] PHP Fatal error:  Class 'Debug_Bar_Panel' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/class_simple_fields_debug_panel.php on line 6
+[14-Apr-2021 23:12:07 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/simple_fields.php on line 60
+[15-Apr-2021 23:11:50 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/simple_fields.php on line 60
+[16-Apr-2021 01:15:52 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/simple_fields.php on line 60
+[19-Apr-2021 01:51:09 UTC] PHP Fatal error:  Class 'Walker' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/functions.php on line 359
+[19-Apr-2021 10:51:41 UTC] PHP Fatal error:  Class 'Walker' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/functions.php on line 359
+[20-Apr-2021 10:06:56 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-export-import.php on line 14
+[20-Apr-2021 19:43:53 UTC] PHP Fatal error:  Class 'Debug_Bar_Panel' not found in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/class_simple_fields_debug_panel.php on line 6
+[20-Apr-2021 19:43:57 UTC] PHP Fatal error:  Using $this when not in object context in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options.php on line 8
+[20-Apr-2021 19:44:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-export-import.php on line 14
+[20-Apr-2021 19:44:59 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-manage.php on line 465
+[20-Apr-2021 19:45:43 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-debug.php on line 14
+[20-Apr-2021 19:46:35 UTC] PHP Fatal error:  Call to undefined function plugins_url() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/simple_fields.php on line 60
+[22-Apr-2021 04:48:03 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-debug.php on line 14
+[24-Apr-2021 03:35:53 UTC] PHP Fatal error:  Using $this when not in object context in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options.php on line 8
+[24-Apr-2021 17:15:34 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/renaissancelawco/public_html/wp-content/plugins/simple-fields/inc-admin-options-debug.php on line 14

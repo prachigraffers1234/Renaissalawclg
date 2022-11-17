@@ -1,0 +1,130 @@
+body {font-family:'Roboto' , 'Lato' , sans-serif;}
+.container{padding-top:20px; padding-bottom:20px;}
+.no_padding{padding:0px;}
+.no_margin{margin:0px;}
+.padding_bottom_10{padding-bottom: 10px;}
+.padding_bottom_30{padding-bottom: 30px;}
+.padding_20{padding-top: 20px; padding-bottom: 20px;}
+.padding_top_40{padding-top: 40px;}
+
+
+label{font-weight: normal;}
+h1, h2 , h3{margin: 0px;}
+img{width:100%;}
+ul{padding-left: 20px; list-style-image: url(../img/bullet.png);}
+li{text-align: left; font-size: 110%; margin-bottom: 20px;}
+h3{font-family: roboto slab; text-transform: uppercase; color: #f5821f; text-align: center;}
+p{color: #505050; text-align: justify;}
+/*.carousel-control{background-image: none !important;}*/
+/*
+.item {
+    display: none;
+    position: relative;
+    transition:transform .10s ease-in-out;
+}
+*/
+
+.div_logo {top:0px; left:10%; position: absolute;}
+.img_logo{ max-width: 300px; top: 0px; left: 100px; z-index: 1;}
+/*.carousel-inner>.item>img{ max-height: 720px;}*/
+
+.div_strip{background-color: #505050; color: #fff;} 
+.div_strip p{color: #fff; text-align: center; font-size: 97%;}
+.txt_why{padding-top: 40px;}
+.txt_why h2{font-size:220%;}
+.txt_why h1{font-size:320%;}
+.icons h2{text-align: center; padding-bottom: 10px;}
+
+
+.div_form{background-color:#622e2b;  background-size:100% 100%; position: absolute; top: 95px; right: 40px;}
+.div_form .container{width: 360px;}
+.div_form h2{color: #ffe178; text-align: center; font-weight: normal;}
+.div_form .form-group{margin: 0px; margin-bottom: 10px;}
+/*.div_form .form-control{width:110%;}*/
+.div_form .form-inline .form-group{padding:0px 5px;}
+.div_form .form-inline .form-control{width: 100%; vertical-align: middle; background-color: transparent; border-radius: 0px; font-size: 120%; color: #fff;}
+#submit{background-color: #f5821f; border: none; color: #fff;}
+
+
+.div_board{background-color: #fdfad6;}
+.div_board img{height: 159px; width: 138px;}
+.div_board p{text-align: center; margin-bottom: 0px;}
+.div_board img + p{margin-top: 10px;}
+.div_board h3{color: #63302d;}
+.div_board h4 { background: #f87b11 none repeat scroll 0 0; color: #fff; padding: 10px; text-align: center; width: 40%;  margin: 0 auto 20px;}
+
+
+.div_footer{ background-color: #505050; }
+.div_footer p{color:#f5821f; font-family: 'robot slab'; text-align: right;}
+
+.error_msg{color:#fff; margin-bottom: 0px; text-align:left; margin-top: 5px; /*font-weight:bold;*/ font-size:94%;}
+
+.txt_thank h2 label{border-bottom: 1px solid #fff;padding: 0 20px 10px 20px; color: #fff;}
+.txt_thank h4{color: #fff; font-weight: normal; padding-top: 10px; line-height: 28px;}
+.form-title { color:#cccccc;}
+.checkbox { color:#cccccc;}
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+
+    }
+
+    @media only screen and (max-width : 1024px) {        
+        .div_advantage h1{font-size: 35px;}
+        .div_brochure {padding-top: 0px;}
+        .padding_top_40 {padding-top: 20px;}
+        
+        .div_form{top: 20px;}
+        .div_form .container{width:300px;}
+        .txt_why{padding-top:20px;}
+        .div_board h4 { width: 55%;}
+       /* .div_strip{font-size: 87%;}*/
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        /*.container{width:auto; padding:40px;}*/
+        body{font-size:140%;} 
+        
+        .div_form{position: static;}
+        .div_form .container{width:auto;}
+        .txt_why{padding-top: 0px; padding-bottom: 20px; text-align: center;}
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {	
+        .container{width:auto;}
+        .form-inline .form-group{margin-bottom: 20px;}
+        .xs_txt_center{text-align: center;}
+        .div_outcome{padding-top: 40px;}
+        
+    }
+	
+	@media only screen and (max-width : 600px) {
+        body{font-size:120%;}
+        .logo_strip h3{font-size: 10px;}
+        .img_logo{width: 70px; margin: auto;}
+        #img_second_home{margin-bottom: 60px;}
+        .div_advantage h1{font-size:210%;}
+        h2{font-size:200%;}
+        h3{font-size: 150%;}
+        .btn_style1, .btn_style2 {min-width: 100%;}
+
+	}
+
+    /* Extra Small Devices, Phones */ 
+	@media only screen and (max-width : 480px) {
+        body{font-size:115%;}
+        .div_container { padding: 15px;}
+        li{margin-bottom: 5px !important;}
+        .div_board h4 { width: 50%;}
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        body{font-size:100%;}
+        .div_board h4 { width: 55%;}
+    }
+
+
+
